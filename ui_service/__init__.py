@@ -1,0 +1,1 @@
+from ui_service.jira_searcher import jira_searcher_pb
